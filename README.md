@@ -1,5 +1,5 @@
 # BuildingDesigner
-![Startmenu](https://github.com/Skaleee/BuildingDesigner/assets/78816681/e47cac50-64f3-4c74-83ed-748bd7ca0597)
+![Startmenu](https://github.com/Skaleee/BuildingDesigner/assets/78816681/9deb7041-571a-4397-935a-9abf0d53b05d)
 
 This is a free building-design application implemented in Unity for my bachelor thesis. 
 
