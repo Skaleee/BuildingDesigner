@@ -4,6 +4,7 @@
 This is a free building-design application implemented in Unity for my bachelor thesis. 
 
 The application works with german development plans and shows the user, if the current design complies with the restrictions of the plan. Not all restrictions are supported by the application.
+The designed scene can be exported as a project file for later editing or as FBX-file for use in other software.
 
 The application was tested on Windows but might also compile for other platforms, if they are supported by the used libraries.
 
