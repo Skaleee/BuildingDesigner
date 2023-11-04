@@ -1,7 +1,9 @@
 # BuildingDesigner
 ![Startmenu](https://github.com/Skaleee/BuildingDesigner/assets/78816681/9deb7041-571a-4397-935a-9abf0d53b05d)
 
-This is a free building-design application implemented in Unity for my bachelor thesis. 
+![Bearbeitungsansicht_options](https://github.com/Skaleee/BuildingDesigner/assets/78816681/5abdcc99-f57a-421c-8903-fd12c9d2999c)
+
+This is a free building-design application implemented in Unity. 
 
 The application works with german development plans and shows the user, if the current design complies with the restrictions of the plan. Not all restrictions are supported by the application.
 The designed scene can be exported as a project file for later editing or as FBX-file for use in other software.
